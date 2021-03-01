@@ -1,6 +1,6 @@
 header:
     title: Welcome!
-    text: Smilekids Childcare Centre.
+    text: Smilekids Childcare.
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
